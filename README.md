@@ -1,7 +1,7 @@
 ## 🧾Overview
 
 스마트폰으로 카드를 결제하거나, 카메라로 카드를 인식할 경우 자동으로 카드 번호가 입력되는 경우가 있습니다. 또 주차장에 들어가면 차량 번호가 자동으로 인식되는 경우도 흔히 있습니다. 이처럼 OCR (Optimal Character Recognition) 기술은 사람이 직접 쓰거나 이미지 속에 있는 문자를 얻은 다음 이를 컴퓨터가 인식할 수 있도록 하는 기술로, 컴퓨터 비전 분야에서 현재 널리 쓰이는 대표적인 기술 중 하나입니다.
-<img src="https://s3-us-west-2.amazonaws.com/aistages-prod-server-public/app/Users/00000333/files/654c3b7b-c151-4f63-a378-cc102bbf773f..png" width="700" height="320">
+<img src="./images/title.jpg" width="700" height="320">
 
 ## 🧙‍♂️Team
 
@@ -51,8 +51,7 @@
   2. 모든 정답 박스와 예측 박스를 순회하면서, 매칭이 되었는지 판단하여 박스 레벨로 정답 여부를 측정
   3.  모든 이미지에 대하여 Recall, Precision을 구한 이후, 최종 F1-Score은 모든 이미지 레벨에서 측정 값의 평균으로 측정 
 
-<img src="https://s3-us-west-2.amazonaws.com/aistages-prod-server-public/app/Users/00000333/files/272cfe78-6bfa-4d77-8ead-c0daf77f15c7..png
-" alt="대체 텍스트"> |
+<img src="./images/../metric.png" alt="대체 텍스트">
 
 ## ⚒Development Environment
 
