@@ -51,7 +51,7 @@
   2. 모든 정답 박스와 예측 박스를 순회하면서, 매칭이 되었는지 판단하여 박스 레벨로 정답 여부를 측정
   3.  모든 이미지에 대하여 Recall, Precision을 구한 이후, 최종 F1-Score은 모든 이미지 레벨에서 측정 값의 평균으로 측정 
 
-<img src="./images/../metric.png" alt="대체 텍스트">
+<img src="./images/metric.png" alt="대체 텍스트">
 
 ## ⚒Development Environment
 
