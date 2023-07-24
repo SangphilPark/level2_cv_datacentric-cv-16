@@ -1,5 +1,5 @@
 # baseline code
 code/detect.py
-code/east_datset.py
+code/east_dataset.py
 code/loss.py
 code/model.py
